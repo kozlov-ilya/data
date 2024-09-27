@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Happy Ghost",
+    "price": 300, 
+    "imgSrc": "https://kozlov-ilya.github.io/data/tma-store/assets/img/ghost.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Christian Minion",
+    "price": 300, 
+    "imgSrc": "https://kozlov-ilya.github.io/data/tma-store/assets/img/minion-praying.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Uncle Iroh",
+    "price": 300, 
+    "imgSrc": "https://kozlov-ilya.github.io/data/tma-store/assets/img/iroh.jpg"
+  }
+]
